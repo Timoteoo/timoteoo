@@ -6,13 +6,13 @@
     <p>🇧🇷 - Brazillian.</p>
   </li>
   <li>
-    <p>🧊 - My Discord username is Lure#5959</p>
+    <p>🧊 - My Discord username is tintin#5457</p>
   </li>
   <li>
     <p>📎 - My <a href="https://twitter.com/lure_dev">Twitter</a>.</p>
   </li>
   <li>
-    <p>🖥️ - Currenlty focusing on TypeScript and ReactJS.</p>
+    <p>🖥️ - Currenlty focusing on TypeScript and NextJS.</p>
   </li>
   <li>
     <p>🔗 - Mostly developing websites.</p>
